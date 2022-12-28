@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+
+  "dependencies": {
+    "merge-images": "^2.0.0"
+  },
+
+  "type": "module"
+}
